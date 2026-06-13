@@ -70,28 +70,6 @@ Different values of `k` were tested, and the clustering results were compared wi
 
 PCA was used to visualize the clustering results in 2D.
 
-## Project Structure
-
-```text
-NETWORK-INTRUSION-DETECTION/
-│
-├── archive/                 # Dataset files
-├── dataset/                 # Additional dataset 
-├── notebooks/               # Extra notebooks used during development
-├── report/                  # Final report
-├── results/                 # Saved figures and CSV results
-├── src/                     # Source code files
-│   ├── preprocessing.py
-│   ├── models.py
-│   ├── evaluation.py
-│   
-│
-├── main.ipynb               # Main notebook containing the final pipeline
-├── requirements.txt         # Required Python libraries
-├── README.md                # Project documentation
-└── .gitignore
-```
-
 ## Installation
 
 1. Clone the repository:
